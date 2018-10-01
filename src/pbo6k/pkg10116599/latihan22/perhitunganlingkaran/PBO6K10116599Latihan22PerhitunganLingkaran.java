@@ -32,7 +32,7 @@ public class PBO6K10116599Latihan22PerhitunganLingkaran {
         Scanner scan = new Scanner(System.in);
         
         
-        // Input
+        // Input diameter oleh user
         do {
         System.out.print("Masukkan nilai diameter lingkaran : ");
         //diameter=scan.nextDouble();
@@ -52,7 +52,7 @@ public class PBO6K10116599Latihan22PerhitunganLingkaran {
         keliling = 3.14*diameter;
         
         
-        // Output
+        // Menampilkan Perhitungan
         System.out.println();
         System.out.println("=======Hasil Perhitungan Lingkaran=======");
         System.out.println("Jari-jari lingkaran\t: " +jariJari+ " cm");
